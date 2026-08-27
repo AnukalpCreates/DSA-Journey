@@ -23,8 +23,17 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
