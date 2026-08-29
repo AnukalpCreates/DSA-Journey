@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
@@ -33,15 +34,18 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -55,4 +59,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
