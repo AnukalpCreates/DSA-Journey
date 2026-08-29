@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
+| [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
 | ------- |
