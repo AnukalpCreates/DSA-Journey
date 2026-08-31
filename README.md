@@ -76,4 +76,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
