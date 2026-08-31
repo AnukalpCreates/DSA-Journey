@@ -31,6 +31,7 @@
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 ## Algorithm X
 |  |
@@ -75,6 +77,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
