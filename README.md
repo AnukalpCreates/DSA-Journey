@@ -44,6 +44,7 @@
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 ## Algorithm X
 |  |
@@ -80,6 +81,7 @@
 | ------- |
 | [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
