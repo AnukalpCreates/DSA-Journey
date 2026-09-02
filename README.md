@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0260-single-number-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
 |  |
 | ------- |
