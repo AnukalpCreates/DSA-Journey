@@ -8,6 +8,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -48,6 +49,7 @@
 | [0136-single-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0260-single-number-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
@@ -90,4 +92,24 @@
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
