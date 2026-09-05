@@ -8,6 +8,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
