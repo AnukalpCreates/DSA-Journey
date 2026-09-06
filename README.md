@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0066-plus-one) |
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
