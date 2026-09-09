@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
@@ -40,6 +41,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
