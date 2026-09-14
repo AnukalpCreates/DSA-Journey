@@ -57,6 +57,7 @@
 | [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
 |  |
@@ -133,6 +134,7 @@
 | [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
