@@ -56,6 +56,7 @@
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
 |  |
@@ -67,6 +68,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -130,8 +132,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
