@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -142,6 +146,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
