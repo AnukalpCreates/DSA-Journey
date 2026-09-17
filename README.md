@@ -62,6 +62,7 @@
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
 |  |
@@ -142,6 +143,7 @@
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -153,4 +155,5 @@
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
