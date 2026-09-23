@@ -80,6 +80,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
@@ -160,6 +161,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -203,4 +205,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
