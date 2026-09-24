@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
