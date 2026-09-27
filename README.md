@@ -52,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0051-n-queens) |
@@ -79,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
@@ -98,6 +100,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0085-maximal-rectangle) |
 ## Dancing Links
