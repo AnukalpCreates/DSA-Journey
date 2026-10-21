@@ -70,6 +70,7 @@
 | [0503-next-greater-element-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
