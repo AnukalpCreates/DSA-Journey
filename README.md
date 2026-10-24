@@ -27,6 +27,7 @@
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Trie
@@ -209,6 +211,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
