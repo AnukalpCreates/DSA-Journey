@@ -74,6 +74,7 @@
 | [0735-asteroid-collision](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/AnukalpCreates/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
@@ -94,6 +95,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
@@ -215,6 +217,7 @@
 | [0239-sliding-window-maximum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -237,6 +240,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
