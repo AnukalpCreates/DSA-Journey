@@ -29,7 +29,6 @@ public:
                 TreeNode* node = q.front();
                 q.pop();
 
-                // Determine the index to place the node value based on direction
                 int index = leftToRight ? i : (size - 1 - i);
                 row[index] = node->val;
 
@@ -41,7 +40,6 @@ public:
                 }
             }
 
-            // Switch direction for the next level
             leftToRight = !leftToRight;
             result.push_back(row);
         }
