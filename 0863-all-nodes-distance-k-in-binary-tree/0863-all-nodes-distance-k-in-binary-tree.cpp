@@ -27,9 +27,9 @@ public:
             }
         }
     }
-    
+
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> parent_track; // child -> parent
+        unordered_map<TreeNode*, TreeNode*> parent_track; 
         markParents(root, parent_track);
 
         unordered_map<TreeNode*, bool> visited;
@@ -39,7 +39,6 @@ public:
         visited[target] = true;
         int curr_level = 0;
 
-        // Traverse radially outward from target until reaching distance k
         while (!q.empty()) {
             int size = q.size();
             if (curr_level == k) break;
@@ -49,19 +48,16 @@ public:
                 TreeNode* current = q.front();
                 q.pop();
 
-                // 1. Move left
                 if (current->left && !visited[current->left]) {
                     visited[current->left] = true;
                     q.push(current->left);
                 }
 
-                // 2. Move right
                 if (current->right && !visited[current->right]) {
                     visited[current->right] = true;
                     q.push(current->right);
                 }
 
-                // 3. Move upward to parent
                 if (parent_track.find(current) != parent_track.end() && !visited[parent_track[current]]) {
                     visited[parent_track[current]] = true;
                     q.push(parent_track[current]);
@@ -69,7 +65,7 @@ public:
             }
         }
 
-        // Remaining elements in the queue are at distance k
+       
         vector<int> result;
         while (!q.empty()) {
             TreeNode* current = q.front();
