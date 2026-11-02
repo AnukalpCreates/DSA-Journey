@@ -100,6 +100,7 @@
 | [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -284,6 +285,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -300,6 +302,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -318,6 +321,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -329,6 +333,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
