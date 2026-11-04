@@ -66,6 +66,7 @@
 | [0078-subsets](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
@@ -96,6 +97,7 @@
 | [0036-valid-sudoku](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -279,6 +281,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
@@ -316,6 +319,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
@@ -356,4 +360,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
