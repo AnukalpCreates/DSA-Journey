@@ -31,6 +31,7 @@
 | [0402-remove-k-digits](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0011-container-with-most-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AnukalpCreates/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [1768-merge-strings-alternately](https://github.com/AnukalpCreates/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
